@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker App
 
 ## Description
 Keep track of all your notes or your day to day remindes with our Note taker App! simple easily app to write down your notes.
